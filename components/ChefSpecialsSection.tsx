@@ -94,11 +94,11 @@ export function ChefSpecialsSection() {
         <Stack gap="xl" align="center" mb={60}>
           <Text
             size="lg"
-            className="gold-accent scale-in-on-scroll"
+            className="!gold-accent scale-in-on-scroll"
             fw={400}
             style={{ fontFamily: "Georgia, serif", letterSpacing: "0.2em" }}
           >
-            Chef's Specials
+            CHEF'S SPECIALS
           </Text>
           <Title
             order={2}
@@ -210,7 +210,7 @@ export function ChefSpecialsSection() {
                     <Text
                       size="2xl"
                       fw={700}
-                      className="gold-accent"
+                      className="!gold-accent"
                       style={{
                         fontFamily: "Georgia, serif",
                         textShadow: "0 0 20px rgba(241, 211, 179, 0.8)",

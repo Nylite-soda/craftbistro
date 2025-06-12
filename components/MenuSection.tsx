@@ -38,7 +38,7 @@ const menuCategories = [
         price: "$18",
         popular: true,
         image:
-          "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=400",
+          "https://media.istockphoto.com/id/172953898/photo/pan-seared-sea-scallops.jpg?b=1&s=612x612&w=0&k=20&c=nzqr4NbijPET4UzywYn_c7HxZk8QnF2AvmrCzyxWGWM=",
       },
       {
         name: "Charcuterie Board",
@@ -46,7 +46,7 @@ const menuCategories = [
         price: "$24",
         popular: false,
         image:
-          "https://images.pexels.com/photos/1640772/pexels-photo-1640772.jpeg?auto=compress&cs=tinysrgb&w=400",
+          "https://media.istockphoto.com/id/1400291102/photo/different-tasty-appetizers-on-wooden-table-flat-lay.jpg?b=1&s=612x612&w=0&k=20&c=u5pw-9ckwHjWsxncJmsAaOfHMRyOD6Lq33GKCPFWqKo=",
       },
       {
         name: "Burrata & Heirloom Tomatoes",
@@ -54,7 +54,7 @@ const menuCategories = [
         price: "$16",
         popular: true,
         image:
-          "https://images.pexels.com/photos/769289/pexels-photo-769289.jpeg?auto=compress&cs=tinysrgb&w=400",
+          "https://images.pexels.com/photos/19808760/pexels-photo-19808760/free-photo-of-pizza-with-egg-benedict-and-arugula.jpeg?auto=compress&cs=tinysrgb&w=600",
       },
       {
         name: "Truffle Arancini",
@@ -62,7 +62,7 @@ const menuCategories = [
         price: "$14",
         popular: false,
         image:
-          "https://images.pexels.com/photos/1581384/pexels-photo-1581384.jpeg?auto=compress&cs=tinysrgb&w=400",
+          "https://images.pexels.com/photos/5056867/pexels-photo-5056867.jpeg?auto=compress&cs=tinysrgb&w=600",
       },
     ],
   },
@@ -79,7 +79,7 @@ const menuCategories = [
         price: "$52",
         popular: true,
         image:
-          "https://images.pexels.com/photos/769289/pexels-photo-769289.jpeg?auto=compress&cs=tinysrgb&w=400",
+          "https://images.pexels.com/photos/6542787/pexels-photo-6542787.jpeg?auto=compress&cs=tinysrgb&w=600",
       },
       {
         name: "Duck Confit",
@@ -87,7 +87,7 @@ const menuCategories = [
         price: "$34",
         popular: false,
         image:
-          "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=400",
+          "https://images.pexels.com/photos/14537662/pexels-photo-14537662.jpeg?auto=compress&cs=tinysrgb&w=600",
       },
       {
         name: "Braised Short Rib",
@@ -96,7 +96,7 @@ const menuCategories = [
         price: "$36",
         popular: true,
         image:
-          "https://images.pexels.com/photos/1640772/pexels-photo-1640772.jpeg?auto=compress&cs=tinysrgb&w=400",
+          "https://media.istockphoto.com/id/636683152/photo/dinner.jpg?b=1&s=612x612&w=0&k=20&c=C2DLaQJqGH3ig8IxgzqxA0kblFvJezCHOewKAC1bOug=",
       },
       {
         name: "Rack of Lamb",
@@ -104,7 +104,7 @@ const menuCategories = [
         price: "$42",
         popular: false,
         image:
-          "https://images.pexels.com/photos/1581384/pexels-photo-1581384.jpeg?auto=compress&cs=tinysrgb&w=400",
+          "https://images.pexels.com/photos/11795635/pexels-photo-11795635.jpeg?auto=compress&cs=tinysrgb&w=600",
       },
     ],
   },
@@ -120,7 +120,7 @@ const menuCategories = [
         price: "$28",
         popular: true,
         image:
-          "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=400",
+          "https://images.pexels.com/photos/3490368/pexels-photo-3490368.jpeg?auto=compress&cs=tinysrgb&w=600",
       },
       {
         name: "Lobster Thermidor",
@@ -128,7 +128,7 @@ const menuCategories = [
         price: "$42",
         popular: true,
         image:
-          "https://images.pexels.com/photos/769289/pexels-photo-769289.jpeg?auto=compress&cs=tinysrgb&w=400",
+          "https://media.istockphoto.com/id/1285543516/photo/lobster-thermidor-served-with-glazed-potato-and-asparagus-in-a-platter-black-background.jpg?b=1&s=612x612&w=0&k=20&c=s-7YfbZ4Gw_agCsJjFm96Nxb00_FmqTMccunQpXmXog=",
       },
       {
         name: "Seared Halibut",
@@ -136,7 +136,7 @@ const menuCategories = [
         price: "$32",
         popular: false,
         image:
-          "https://images.pexels.com/photos/1640772/pexels-photo-1640772.jpeg?auto=compress&cs=tinysrgb&w=400",
+          "https://images.pexels.com/photos/19001607/pexels-photo-19001607/free-photo-of-salmon-served-with-rice-and-salad-on-plate.jpeg?auto=compress&cs=tinysrgb&w=600",
       },
       {
         name: "Cioppino",
@@ -144,7 +144,7 @@ const menuCategories = [
         price: "$29",
         popular: false,
         image:
-          "https://images.pexels.com/photos/1581384/pexels-photo-1581384.jpeg?auto=compress&cs=tinysrgb&w=400",
+          "https://media.istockphoto.com/id/1175609923/photo/seafood-casserole-bowl.jpg?b=1&s=612x612&w=0&k=20&c=4knRna4ceHGBbay7k2x8NsZUgZYmcWBq_HqXlHChHyk=",
       },
     ],
   },
@@ -160,7 +160,7 @@ const menuCategories = [
         price: "$14",
         popular: true,
         image:
-          "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=400",
+          "https://images.pexels.com/photos/28625346/pexels-photo-28625346/free-photo-of-cozy-indulgence-enjoying-chocolate-dessert-in-istanbul.jpeg?auto=compress&cs=tinysrgb&w=600",
       },
       {
         name: "Crème Brûlée",
@@ -168,7 +168,7 @@ const menuCategories = [
         price: "$12",
         popular: true,
         image:
-          "https://images.pexels.com/photos/769289/pexels-photo-769289.jpeg?auto=compress&cs=tinysrgb&w=400",
+          "https://images.pexels.com/photos/299349/pexels-photo-299349.jpeg?auto=compress&cs=tinysrgb&w=600",
       },
       {
         name: "Apple Tarte Tatin",
@@ -176,7 +176,7 @@ const menuCategories = [
         price: "$13",
         popular: false,
         image:
-          "https://images.pexels.com/photos/1640772/pexels-photo-1640772.jpeg?auto=compress&cs=tinysrgb&w=400",
+          "https://images.pexels.com/photos/6148265/pexels-photo-6148265.jpeg?auto=compress&cs=tinysrgb&w=600",
       },
       {
         name: "Tiramisu",
@@ -184,7 +184,7 @@ const menuCategories = [
         price: "$11",
         popular: false,
         image:
-          "https://images.pexels.com/photos/1581384/pexels-photo-1581384.jpeg?auto=compress&cs=tinysrgb&w=400",
+          "https://images.pexels.com/photos/29721415/pexels-photo-29721415/free-photo-of-elegant-tiramisu-cake-with-ladyfingers.jpeg?auto=compress&cs=tinysrgb&w=600",
       },
     ],
   },
@@ -234,7 +234,7 @@ export function MenuSection() {
         <Stack gap="xl" align="center" mb={60}>
           <Text
             size="lg"
-            className="gold-accent animate-fade-in-up"
+            className="!gold-accent animate-fade-in-up"
             fw={400}
             style={{ fontFamily: "Georgia, serif", letterSpacing: "0.1em" }}
           >
@@ -354,7 +354,7 @@ export function MenuSection() {
                         <Text
                           size="2xl"
                           fw={700}
-                          className="gold-accent absolute bottom-2 right-4"
+                          className="!gold-accent absolute bottom-2 right-4"
                           style={{
                             fontFamily: "Georgia, serif",
                             textShadow: "2px 2px 4px rgba(0,0,0,0.8)",
@@ -397,7 +397,7 @@ export function MenuSection() {
                         <Text
                           size="lg"
                           fw={700}
-                          className="gold-accent"
+                          className="!gold-accent"
                           style={{ fontFamily: "Georgia, serif" }}
                         >
                           {item.price}

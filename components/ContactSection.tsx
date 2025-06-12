@@ -57,11 +57,11 @@ export function ContactSection() {
         <Stack gap="xl" align="center" mb={60}>
           <Text
             size="lg"
-            className="gold-accent"
+            className="!gold-accent"
             fw={400}
             style={{ fontFamily: "Georgia, serif", letterSpacing: "0.1em" }}
           >
-            Contact Us
+            CONTACT US
           </Text>
           <Title
             order={2}

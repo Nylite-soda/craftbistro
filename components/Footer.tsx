@@ -28,7 +28,7 @@ export function Footer() {
               <Text
                 size="xl"
                 fw={700}
-                className="gold-accent"
+                className="!gold-accent"
                 style={{ fontFamily: "Georgia, serif" }}
               >
                 Craft Bistro
