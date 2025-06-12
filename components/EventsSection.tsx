@@ -66,7 +66,7 @@ export function EventsSection() {
         <Stack gap="xl" align="center" mb={60}>
           <Text
             size="lg"
-            className="!gold-accent"
+            className="text-restaurant-gold transition duration-300 ease-in-out"
             fw={400}
             style={{ fontFamily: "Georgia, serif", letterSpacing: "0.1em" }}
           >
@@ -171,7 +171,7 @@ export function EventsSection() {
                     <Text
                       size="lg"
                       fw={600}
-                      className="!gold-accent"
+                      className="text-restaurant-gold transition duration-300 ease-in-out"
                       style={{ fontFamily: "Georgia, serif" }}
                     >
                       {event.price}
