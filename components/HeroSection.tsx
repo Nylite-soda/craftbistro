@@ -117,7 +117,7 @@ export const HeroSection = () => {
           >
             Historic Charm.
             <br />
-            <span className="text-restaurant-gold">
+            <span className="!text-restaurant-gold">
               <span id="type"></span>
               <span className=" typewriter animate-glow"></span>
             </span>
@@ -153,7 +153,7 @@ export const HeroSection = () => {
               variant="outline"
               size="lg"
               onClick={scrollToMenu}
-              className="interactive-button border-2 !border-restaurant-gold !text-restaurant-gold !hover:bg-restaurant-gold !hover:text-restaurant-brown font-sans font-bold px-8 py-4 rounded-lg text-lg transition-all duration-300 transform hover:scale-105 bg-transparent backdrop-blur-sm"
+              className="interactive-button border-2 !border-restaurant-gold !!text-restaurant-gold !hover:bg-restaurant-gold !hover:text-restaurant-brown font-sans font-bold px-8 py-4 rounded-lg text-lg transition-all duration-300 transform hover:scale-105 bg-transparent backdrop-blur-sm"
               leftSection={<IconArrowDown size={24} />}
             >
               View Our Menu
@@ -174,7 +174,7 @@ export const HeroSection = () => {
                 {[...Array(5)].map((_, i) => (
                   <IconStar
                     key={i}
-                    className="w-4 h-4 fill-restaurant-gold text-restaurant-gold animate-rotate-in"
+                    className="w-4 h-4 fill-restaurant-gold !text-restaurant-gold animate-rotate-in"
                     style={{ animationDelay: `${i * 0.1}s` }}
                   />
                 ))}
@@ -186,7 +186,7 @@ export const HeroSection = () => {
 
             {/* Facebook Badge */}
             <div className="flex items-center gap-2 bg-restaurant-cream/10 backdrop-blur-sm rounded-lg px-4 py-2 border border-restaurant-gold/20">
-              <IconBrandFacebook className="w-4 h-4 text-restaurant-gold" />
+              <IconBrandFacebook className="w-4 h-4 !text-restaurant-gold" />
               <span className="text-restaurant-cream font-open-sans font-medium">
                 Follow Us
               </span>

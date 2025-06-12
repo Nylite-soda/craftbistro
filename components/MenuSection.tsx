@@ -234,7 +234,7 @@ export function MenuSection() {
         <Stack gap="xl" align="center" mb={60}>
           <Text
             size="lg"
-            className="text-restaurant-gold transition duration-300 ease-in-out animate-fade-in-up"
+            className="!text-restaurant-gold transition duration-300 ease-in-out animate-fade-in-up"
             fw={400}
             style={{ fontFamily: "Georgia, serif", letterSpacing: "0.1em" }}
           >
@@ -354,7 +354,7 @@ export function MenuSection() {
                         <Text
                           size="2xl"
                           fw={700}
-                          className="text-restaurant-gold transition duration-300 ease-in-out absolute bottom-2 right-4"
+                          className="!text-restaurant-gold transition duration-300 ease-in-out absolute bottom-2 right-4"
                           style={{
                             fontFamily: "Georgia, serif",
                             textShadow: "2px 2px 4px rgba(0,0,0,0.8)",
@@ -370,7 +370,7 @@ export function MenuSection() {
                           order={3}
                           size="xl"
                           c="cream.0"
-                          className="hover:text-restaurant-gold transition-colors duration-300"
+                          className="hover:!text-restaurant-gold transition-colors duration-300"
                           style={{ fontFamily: "Georgia, serif" }}
                         >
                           {item.name}
@@ -397,7 +397,7 @@ export function MenuSection() {
                         <Text
                           size="lg"
                           fw={700}
-                          className="text-restaurant-gold transition duration-300 ease-in-out"
+                          className="!text-restaurant-gold transition duration-300 ease-in-out"
                           style={{ fontFamily: "Georgia, serif" }}
                         >
                           {item.price}

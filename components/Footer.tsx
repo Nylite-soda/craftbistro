@@ -28,7 +28,7 @@ export function Footer() {
               <Text
                 size="xl"
                 fw={700}
-                className="text-restaurant-gold transition duration-300 ease-in-out"
+                className="!text-restaurant-gold transition duration-300 ease-in-out"
                 style={{ fontFamily: "Georgia, serif" }}
               >
                 Craft Bistro

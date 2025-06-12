@@ -94,7 +94,7 @@ export function ChefSpecialsSection() {
         <Stack gap="xl" align="center" mb={60}>
           <Text
             size="lg"
-            className="text-restaurant-gold transition duration-300 ease-in-out scale-in-on-scroll"
+            className="!text-restaurant-gold transition duration-300 ease-in-out scale-in-on-scroll"
             fw={400}
             style={{ fontFamily: "Georgia, serif", letterSpacing: "0.2em" }}
           >
@@ -210,7 +210,7 @@ export function ChefSpecialsSection() {
                     <Text
                       size="2xl"
                       fw={700}
-                      className="text-restaurant-gold transition duration-300 ease-in-out"
+                      className="!text-restaurant-gold transition duration-300 ease-in-out"
                       style={{
                         fontFamily: "Georgia, serif",
                         textShadow: "0 0 20px rgba(241, 211, 179, 0.8)",
