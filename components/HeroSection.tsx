@@ -153,7 +153,7 @@ export const HeroSection = () => {
               variant="outline"
               size="lg"
               onClick={scrollToMenu}
-              className="interactive-button border-2 !border-restaurant-gold !!text-restaurant-gold !hover:bg-restaurant-gold !hover:text-restaurant-brown font-sans font-bold px-8 py-4 rounded-lg text-lg transition-all duration-300 transform hover:scale-105 bg-transparent backdrop-blur-sm"
+              className="interactive-button border-2 !border-restaurant-gold !text-restaurant-gold !hover:bg-restaurant-gold !hover:text-restaurant-brown font-sans font-bold px-8 py-4 rounded-lg text-lg transition-all duration-300 transform hover:scale-105 bg-transparent backdrop-blur-sm"
               leftSection={<IconArrowDown size={24} />}
             >
               View Our Menu
