@@ -24,9 +24,9 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Craft Bistro - Fine Dining in West Jefferson, NC",
+  title: "SodaDine - Fine Dining in Soda Avenue, NC",
   description:
-    "Experience exceptional fine dining at Craft Bistro, located in a historic theater in West Jefferson, NC. Featuring chef specials, live music, and wine nights.",
+    "Experience exceptional fine dining at SodaDine, located in a historic theater in Soda Avenue, NC. Featuring chef specials, live music, and wine nights.",
 };
 
 export default function RootLayout({

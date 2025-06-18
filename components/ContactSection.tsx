@@ -189,7 +189,7 @@ export function ContactSection() {
                         Email
                       </Text>
                       <Text size="sm" c="gray.3">
-                        info@craftbistro.com
+                        demo@sodadine.com
                       </Text>
                     </Stack>
                   </Group>
@@ -201,9 +201,9 @@ export function ContactSection() {
                         Address
                       </Text>
                       <Text size="sm" c="gray.3">
-                        123 Historic Theater Street
+                        123 Soda Street
                         <br />
-                        West Jefferson, NC 28694
+                        Soda Avenue, NC
                       </Text>
                     </Stack>
                   </Group>

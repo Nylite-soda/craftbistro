@@ -58,7 +58,7 @@ export function Header() {
                   textShadow: "0 0 10px rgba(241, 211, 179, 0.3)",
                 }}
               >
-                Craft Bistro
+                SodaDine
               </Text>
             </Group>
 
@@ -116,7 +116,7 @@ export function Header() {
               color: "var(--restaurant-gold)",
             }}
           >
-            Craft Bistro
+            SodaDine
           </Text>
         }
         padding="md"
@@ -163,7 +163,7 @@ export function Header() {
             <Group gap="xs">
               <IconMail size={16} color="var(--restaurant-gold)" />
               <Text size="sm" c="cream.0">
-                info@craftbistro.com
+                demo@sodadine.com
               </Text>
             </Group>
           </Box>

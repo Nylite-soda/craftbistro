@@ -316,10 +316,10 @@ export function ReservationSection() {
                     Phone: (336) 846-4745
                   </Text>
                   <Text size="sm" c="gray.3">
-                    Email: reservations@craftbistro.com
+                    Email: demoreservations@sodadine.com
                   </Text>
                   <Text size="sm" c="gray.3">
-                    Address: 123 Historic Theater St, West Jefferson, NC 28694
+                    Address: 123 Soda Street, Soda Avenue, NC
                   </Text>
                 </Stack>
               </Card>

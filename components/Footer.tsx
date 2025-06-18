@@ -31,10 +31,10 @@ export function Footer() {
                 className="!text-restaurant-gold transition duration-300 ease-in-out"
                 style={{ fontFamily: "Georgia, serif" }}
               >
-                Craft Bistro
+                SodaDine
               </Text>
               <Text size="sm" c="gray.3" style={{ lineHeight: 1.6 }}>
-                Fine dining in the heart of West Jefferson's historic theater.
+                Fine dining in the heart of Soda Avenue's historic theater.
                 Experience culinary excellence in a setting rich with history
                 and charm.
               </Text>
@@ -61,15 +61,15 @@ export function Footer() {
                 <Group gap="xs">
                   <IconMail size={16} color="var(--restaurant-gold)" />
                   <Text size="sm" c="gray.3">
-                    info@craftbistro.com
+                    demo@sodadine.com
                   </Text>
                 </Group>
                 <Group gap="xs" align="flex-start">
                   <IconMapPin size={16} color="var(--restaurant-gold)" />
                   <Text size="sm" c="gray.3">
-                    123 Historic Theater Street
+                    123 Soda Street
                     <br />
-                    West Jefferson, NC 28694
+                    Soda Avenue, NC
                   </Text>
                 </Group>
               </Stack>
@@ -128,10 +128,10 @@ export function Footer() {
 
         <Group justify="space-between" align="center">
           <Text size="sm" c="gray.4">
-            © 2024 Craft Bistro. All rights reserved.
+            © 2024 SodaDine. All rights reserved.
           </Text>
           <Text size="sm" c="gray.4">
-            Crafted with passion in West Jefferson, NC
+            Crafted with passion in Soda Avenue, NC
           </Text>
         </Group>
       </Container>

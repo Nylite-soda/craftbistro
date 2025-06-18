@@ -129,7 +129,7 @@ export const HeroSection = () => {
               isVisible ? "animate-fade-in-up animate-delay-300" : "opacity-0"
             }`}
           >
-            Fine Dining in the Heart of West Jefferson's Historic Theater
+            Fine Dining in the Heart of Soda Avenue's Historic Theater
           </p>
 
           {/* CTA Buttons */}
