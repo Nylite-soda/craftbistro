@@ -86,7 +86,7 @@ export function Header() {
                 <Group gap="xs">
                   <IconPhone size={16} color="var(--restaurant-gold)" />
                   <Text size="sm" c="cream.0">
-                    (336) 846-4745
+                    0814 907 4026
                   </Text>
                 </Group>
               </Group>
@@ -157,7 +157,7 @@ export function Header() {
             <Group gap="xs" mb="sm">
               <IconPhone size={16} color="var(--restaurant-gold)" />
               <Text size="sm" c="cream.0">
-                (336) 846-4745
+                0814 907 4026
               </Text>
             </Group>
             <Group gap="xs">

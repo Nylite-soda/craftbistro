@@ -313,7 +313,7 @@ export function ReservationSection() {
                     Contact Information
                   </Title>
                   <Text size="sm" c="gray.3">
-                    Phone: (336) 846-4745
+                    Phone: 0814 907 4026
                   </Text>
                   <Text size="sm" c="gray.3">
                     Email: demoreservations@sodadine.com

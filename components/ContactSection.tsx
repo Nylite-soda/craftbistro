@@ -177,7 +177,7 @@ export function ContactSection() {
                         Phone
                       </Text>
                       <Text size="sm" c="gray.3">
-                        (336) 846-4745
+                        0814 907 4026
                       </Text>
                     </Stack>
                   </Group>

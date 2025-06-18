@@ -55,7 +55,7 @@ export function Footer() {
                 <Group gap="xs">
                   <IconPhone size={16} color="var(--restaurant-gold)" />
                   <Text size="sm" c="gray.3">
-                    (336) 846-4745
+                    0814 907 4026
                   </Text>
                 </Group>
                 <Group gap="xs">
